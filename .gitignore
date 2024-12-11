@@ -1,6 +1,8 @@
 !README.md
 !LICENSE
 */*
+.vscode/*
+.vs
 .idea/*
 *.iml
 *.ipr
